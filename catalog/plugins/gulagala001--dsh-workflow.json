@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "gulagala001/dsh-workflow",
+  "name": "DSH Workflow",
+  "repository": "https://github.com/gulagala001/dsh-workflow",
+  "category": "workflow",
+  "description": {
+    "en": "Resumable JavaScript workflows with native subagents, nested calls, token budgets and worktree isolation for DSH 0.2.1-rc.2. Distributed as dsh-workflow-plus through GitHub Releases; no npm package.",
+    "zh": "面向 DSH 0.2.1-rc.2 的可恢复 JavaScript 工作流，支持原生子智能体、嵌套调用、token 预算和 worktree 隔离。包名 dsh-workflow-plus，通过 GitHub Release 分发，未发布 npm。"
+  },
+  "added": "2026-10-20"
+}
