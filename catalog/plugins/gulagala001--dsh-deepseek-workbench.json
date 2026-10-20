@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "gulagala001/dsh-deepseek-workbench",
+  "name": "DeepSeek Workbench",
+  "repository": "https://github.com/gulagala001/dsh-deepseek-workbench",
+  "category": "ui",
+  "description": {
+    "en": "Use DeepSeek web chat, temporary sidebar chat and the API Platform in DeepSeek Harness, and continue website conversations as DSH sessions.",
+    "zh": "在 DeepSeek Harness 中使用 DeepSeek 网页聊天、临时侧栏聊天和 API 开放平台，并将网页历史迁移为可继续的 DSH 会话。"
+  },
+  "added": "2026-10-20"
+}
