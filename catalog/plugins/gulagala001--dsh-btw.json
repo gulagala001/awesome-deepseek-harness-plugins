@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "gulagala001/dsh-btw",
+  "name": "dsh-btw",
+  "repository": "https://github.com/gulagala001/dsh-btw",
+  "category": "session",
+  "description": {
+    "en": "Ask side questions in a native popover using the current conversation as context while the main task keeps running.",
+    "zh": "在主输入框上方使用原生弹窗，借助当前会话上下文进行旁聊与追问，主任务可继续运行。"
+  },
+  "added": "2026-10-20"
+}
