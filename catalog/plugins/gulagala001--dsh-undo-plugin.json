@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "gulagala001/dsh-undo-plugin",
+  "name": "dsh-undo-plugin",
+  "repository": "https://github.com/gulagala001/dsh-undo-plugin",
+  "category": "session",
+  "description": {
+    "en": "Rewind conversations and workspace files in place, with confirmation and undo.",
+    "zh": "对话与工作区文件原地撤回，支持确认和撤销撤回。"
+  },
+  "added": "2026-10-20"
+}
