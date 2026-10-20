@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "gulagala001/dsh-theme-plugin",
+  "name": "dsh-theme-plugin",
+  "repository": "https://github.com/gulagala001/dsh-theme-plugin",
+  "category": "theme",
+  "description": {
+    "en": "Manage DSH appearance and themes, browse visual community markets, and install with compatibility checks, recovery and AI repair guidance.",
+    "zh": "在 DSH 设置中统一管理外观和主题，浏览带图片的多来源市场，一键检查安装，并提供失败恢复与 AI 修复说明。"
+  },
+  "added": "2026-10-20"
+}
